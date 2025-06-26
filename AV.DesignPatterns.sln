@@ -5,7 +5,7 @@ VisualStudioVersion = 25.0.1706.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{C68C699F-7D12-4D69-B622-AC4A6953DD07}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AV.DesignPatterns.AbstractFactory", "src\AV.DesignPatterns.AbstractFactory\AV.DesignPatterns.AbstractFactory.csproj", "{1F894A0C-162B-4A5A-AE91-7600B2059644}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AV.DesignPatterns.Factory", "src\AV.DesignPatterns.Factory\AV.DesignPatterns.Factory.csproj", "{1F894A0C-162B-4A5A-AE91-7600B2059644}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AV.DesignPatterns.Proxy", "src\AV.DesignPatterns.Proxy\AV.DesignPatterns.Proxy.csproj", "{FFEFB90A-468D-4028-BF9E-D2F680A43DA0}"
 EndProject

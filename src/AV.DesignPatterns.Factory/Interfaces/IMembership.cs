@@ -1,4 +1,4 @@
-namespace AV.DesignPatterns.AbstractFactory.Interfaces;
+namespace AV.DesignPatterns.Factory.Interfaces;
 
 public interface IMembership
 {

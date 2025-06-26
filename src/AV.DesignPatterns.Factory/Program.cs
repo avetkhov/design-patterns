@@ -1,7 +1,7 @@
-using AV.DesignPatterns.AbstractFactory.Factories;
-using AV.DesignPatterns.AbstractFactory.Interfaces;
+using AV.DesignPatterns.Factory.Factories;
+using AV.DesignPatterns.Factory.Interfaces;
 
-namespace AV.DesignPatterns.AbstractFactory;
+namespace AV.DesignPatterns.Factory;
 
 public static class Program
 {

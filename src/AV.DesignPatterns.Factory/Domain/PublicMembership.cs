@@ -1,6 +1,6 @@
-using AV.DesignPatterns.AbstractFactory.Interfaces;
+using AV.DesignPatterns.Factory.Interfaces;
 
-namespace AV.DesignPatterns.AbstractFactory.Domain;
+namespace AV.DesignPatterns.Factory.Domain;
 
 public class PublicMembership : IMembership
 {
