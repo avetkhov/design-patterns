@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AV.DesignPatterns.AbstractF
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AV.DesignPatterns.Proxy", "src\AV.DesignPatterns.Proxy\AV.DesignPatterns.Proxy.csproj", "{FFEFB90A-468D-4028-BF9E-D2F680A43DA0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AV.DesignPatterns.Strategy", "src\AV.DesignPatterns.Strategy\AV.DesignPatterns.Strategy.csproj", "{6F0850B8-7AA6-4997-AF14-8460AF9F2569}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{FFEFB90A-468D-4028-BF9E-D2F680A43DA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFEFB90A-468D-4028-BF9E-D2F680A43DA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFEFB90A-468D-4028-BF9E-D2F680A43DA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F0850B8-7AA6-4997-AF14-8460AF9F2569}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F0850B8-7AA6-4997-AF14-8460AF9F2569}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F0850B8-7AA6-4997-AF14-8460AF9F2569}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F0850B8-7AA6-4997-AF14-8460AF9F2569}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -33,5 +39,6 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{1F894A0C-162B-4A5A-AE91-7600B2059644} = {C68C699F-7D12-4D69-B622-AC4A6953DD07}
 		{FFEFB90A-468D-4028-BF9E-D2F680A43DA0} = {C68C699F-7D12-4D69-B622-AC4A6953DD07}
+		{6F0850B8-7AA6-4997-AF14-8460AF9F2569} = {C68C699F-7D12-4D69-B622-AC4A6953DD07}
 	EndGlobalSection
 EndGlobal
